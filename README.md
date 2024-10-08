@@ -1,6 +1,6 @@
 # Git Assignment Project
 
-Name: Ting-Yu Hsu
+Name: Ting-Yu Hsu <br>
 Student ID: 24207795
 
 
