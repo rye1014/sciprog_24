@@ -9,25 +9,28 @@ This folder contains practical 5 codes
 
 ## Execute
 
-- ./prac05-1
-- ./prac05-2
+- `./prac05-1`
+- `./prac05-2`
 
 ## Output
 
-- Exercise 1  <br>
-    Input: `10`  <br>
+#### Exercise 1 
+    Input: <br>
+    `10`  <br>
     Output:  <br>
     `0 1 1 2 3 5 8 13 21 34 55`  <br>
 
     ***
 
-    Input: `20`  <br>
+    Input: <br>
+    `20`  <br>
     Output:  <br>
     `0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765`  <br>
 
 
-- Exercise 2  <br>
-    Input: `0.0000000001`  <br>
+#### Exercise 2
+    Input: <br>
+    `0.0000000001`  <br>
     Output:  <br>
     ```
     -0.90  -1.4722194892 -1.4722194896 0.0000000004 
