@@ -36,3 +36,7 @@ This is my repo for 24/25 Scientific Programming
     - Pointers
     - Pass by reference
     - Generic routines
+- Week 6
+    - Structs Types
+    - Makefile
+    - Doxygen
