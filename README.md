@@ -40,3 +40,8 @@ This is my repo for 24/25 Scientific Programming
     - Structs Types
     - Makefile
     - Doxygen
+- Week 7
+    - Pointer and Arrays
+    - Dynamic Array Declaration
+    - Free Deallocate
+    - Pointers again
