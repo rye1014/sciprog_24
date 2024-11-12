@@ -45,3 +45,19 @@ This is my repo for 24/25 Scientific Programming
     - Dynamic Array Declaration
     - Free Deallocate
     - Pointers again
+- Week 8
+    - Algorithms
+    - Properties of Algorithms
+    - Time Complexity
+    - Examples
+    - Recursion
+- Week 9
+    - Algorithms
+    - Elementary Data Structures
+    - Standard Libraries
+    - Reading Writing to File
+    - Rand Numbers + Timing
+- Week 10
+    - OOP: ISP Problem
+    - OOP: Basics
+    - OOP: Solution
