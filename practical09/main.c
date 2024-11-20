@@ -35,7 +35,7 @@ int main(){
 
 
     // TODO:inputting integer data into the matrix;
-    for (int i=0; i<n; i++)
+    for (int i=0; i<n; i++)                     // input the data from the file to the matrix
     {
         for (int j=0; j<n; j++)
             fscanf(f, "%d", &m[i][j]); 

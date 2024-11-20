@@ -11,7 +11,7 @@ int main(void) {
    sum1 = 0.0;
    for (i=1; i<=1000; i++) {
       /*  Insert here */
-	sum1 += 1.0 / i;
+	   sum1 += 1.0 / i;     // Start from 1 to 1000
    }
 
 
@@ -19,7 +19,7 @@ int main(void) {
    sum2 = 0.0;
    for (i=1000; i>0; i--) {
       /* Insert the same line as above except use sum2 */
-	sum2 += 1.0 / i;
+	   sum2 += 1.0 / i;     // Start from 1000 to 1
    }
 
    printf(" Sum1=%f\n",sum1);
