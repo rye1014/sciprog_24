@@ -12,6 +12,7 @@
 
 ```
 Input: 
+Input the order needed: 
 10
 
 Output: 

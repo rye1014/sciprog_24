@@ -14,6 +14,7 @@ int main(void)
     int n; 
     int a = 0, b = 1;               // initialize a = F_0 = 0, b = F_1 = 1
 
+    printf("Input n to generate n Fibonacci series numbers: \n"); 
     scanf("%d", &n);                // enter the value n
 
     printf("%d %d ", a, b);         

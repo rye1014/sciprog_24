@@ -33,6 +33,7 @@ double arctanh2(double x)               // compute the arctanh by natural logari
 int main(void)
 {
     double delta;               // declare a user-defined delta
+    printf("Input a real positive number delta: \n"); 
     scanf("%lf", &delta); 
 
     double upper = 0.9, lower = -0.9, interval = 0.01;      // x in [-0.9, 0.9], sampled every 0.01
@@ -46,11 +47,12 @@ int main(void)
         result2[i] = arctanh2(lower + interval * i); 
     }
 
+    printf(" x\t  result[1]\t  result[2]\t  diff\n"); 
     double diff; 
     for (int i=0; i<size; i++)                              // compare their differences
     {
         diff = fabs(result1[i] - result2[i]); 
-        printf("%.2f  %.10f %.10f %.10f\n", lower + interval * i, result1[i], result2[i], diff); 
+        printf("%.2f    %.10f   %.10f   %.10f\n", lower + interval * i, result1[i], result2[i], diff); 
     }
 
     return 0; 

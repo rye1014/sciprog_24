@@ -28,7 +28,8 @@ void freearray(double* array)                   // frees the allocated memory
 
 int main() 
 {
-    int n = 10;              
+    int n = 10;       
+    printf("Input the order needed: \n");        
     scanf("%d", &n);         // input the order needed
 
     double* arr = allocatearray(n); // allocate memory for n elements
